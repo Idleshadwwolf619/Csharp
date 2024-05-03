@@ -1,0 +1,10 @@
+C:\Users\idles\OneDrive\Desktop\UAT\C#\MoonBase\MoonBase\obj\Debug\MoonBase.csproj.AssemblyReference.cache
+C:\Users\idles\OneDrive\Desktop\UAT\C#\MoonBase\MoonBase\obj\Debug\MoonBase.Form1.resources
+C:\Users\idles\OneDrive\Desktop\UAT\C#\MoonBase\MoonBase\obj\Debug\MoonBase.Properties.Resources.resources
+C:\Users\idles\OneDrive\Desktop\UAT\C#\MoonBase\MoonBase\obj\Debug\MoonBase.csproj.GenerateResource.cache
+C:\Users\idles\OneDrive\Desktop\UAT\C#\MoonBase\MoonBase\obj\Debug\MoonBase.csproj.CoreCompileInputs.cache
+C:\Users\idles\OneDrive\Desktop\UAT\C#\MoonBase\MoonBase\bin\Debug\MoonBase.exe.config
+C:\Users\idles\OneDrive\Desktop\UAT\C#\MoonBase\MoonBase\bin\Debug\MoonBase.exe
+C:\Users\idles\OneDrive\Desktop\UAT\C#\MoonBase\MoonBase\bin\Debug\MoonBase.pdb
+C:\Users\idles\OneDrive\Desktop\UAT\C#\MoonBase\MoonBase\obj\Debug\MoonBase.exe
+C:\Users\idles\OneDrive\Desktop\UAT\C#\MoonBase\MoonBase\obj\Debug\MoonBase.pdb
